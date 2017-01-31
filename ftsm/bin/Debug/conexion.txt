@@ -1,0 +1,1 @@
+server=localhost;database=dbo_sistfstm;uid=root;pwd=conker;CHARSET=utf8;convert zero datetime=True

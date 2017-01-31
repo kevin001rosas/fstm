@@ -1,0 +1,8 @@
+C:\Users\Kevin\Desktop\mathus\ftsm\ftsm\bin\Debug\ftsm.exe
+C:\Users\Kevin\Desktop\mathus\ftsm\ftsm\bin\Debug\ftsm.pdb
+C:\Users\Kevin\Desktop\mathus\ftsm\ftsm\obj\Debug\ftsm.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Desktop\mathus\ftsm\ftsm\obj\Debug\ftsm.Form1.resources
+C:\Users\Kevin\Desktop\mathus\ftsm\ftsm\obj\Debug\ftsm.Properties.Resources.resources
+C:\Users\Kevin\Desktop\mathus\ftsm\ftsm\obj\Debug\ftsm.csproj.GenerateResource.Cache
+C:\Users\Kevin\Desktop\mathus\ftsm\ftsm\obj\Debug\ftsm.exe
+C:\Users\Kevin\Desktop\mathus\ftsm\ftsm\obj\Debug\ftsm.pdb
